@@ -1,0 +1,6 @@
+*.csv
+test.*
+/venv
+/.idea
+*/__pycache__/*
+*/__init__.py
